@@ -4,7 +4,6 @@
 
 ### Professional Hash Analysis & Cracking Tool
 
-![HashHunter Running](blob:https://github.com/f3169545-5f31-4429-95ca-4b8fbc654a93)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-informational?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
