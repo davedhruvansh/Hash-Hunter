@@ -1,0 +1,18 @@
+# HashHunter — Python dependencies
+# Core library — no external deps required for basic operation.
+# All standard-library modules used: hashlib, itertools, multiprocessing,
+# threading, argparse, logging, base64, re, math, json, csv, os, sys, time
+
+# Optional: install these for enhanced features
+
+# bcrypt support (for cracking bcrypt hashes directly in Python)
+bcrypt>=4.0.0
+
+# Argon2 support
+argon2-cffi>=21.3.0
+
+# Progress bar (optional, used if available)
+tqdm>=4.64.0
+
+# For running tests
+pytest>=7.0.0
